@@ -69,7 +69,6 @@ A formulação fica:
 1. Clone o repositório:
    ```sh
    git clone https://github.com/vncsferreiraguiar/otimizacao-operacional
-   cd SEU_REPO
    ```
 
 2. Crie e ative o ambiente virtual:

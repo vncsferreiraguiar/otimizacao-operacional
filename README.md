@@ -82,6 +82,7 @@ A formulação fica:
    ```sh
    pip install pulp
    pip install pandas
+   pip install openpyxl
    ```
 
 ---

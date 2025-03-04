@@ -8,4 +8,5 @@ def le_dados(arq):
     df = pd.read_excel(dir+arq)
     p = list(df['Peso (kg)'])
     v = list(df['Valor (R$)'])
+    
     return p, v
